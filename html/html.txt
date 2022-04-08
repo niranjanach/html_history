@@ -1,0 +1,77 @@
+Sir Tim Berners-Lee invented the World Wide Web in 1989.
+
+A graduate of Oxford University, Sir Tim invented the Web while at CERN, 
+the European Particle Physics Laboratory, in 1989. He wrote the first web 
+client and server in 1990. His specifications of URIs, HTTP and HTML were 
+refined as Web technology spread.
+
+On 4 April 2017, Sir Tim was awarded the ACM A.M. Turing Prize for inventing 
+the World Wide Web, the first web browser, and the fundamental protocols and 
+algorithms allowing the Web to scale. The Turing Prize, called the "Nobel Prize 
+of Computing" is considered one of the most prestigious awards in Computer Science.
+
+https://www.w3.org/People/Berners-Lee/
+
+images: 
+https://www.w3.org/MarkUp/tims_editor
+https://comptutorials.com/wp-content/uploads/2021/04/download.jpg
+=================================================================================
+The Hypertext Markup Language (HTML) is a simple markup language 
+used to create hypertext documents that are platform independent. 
+HTML documents are SGML documents with generic semantics that are 
+appropriate for representing information from a wide range of domains. 
+HTML markup can represent hypertext news, mail, documentation, and hypermedia; 
+menus of options; database query results; simple structured documents with in-lined graphics; 
+and hypertext views of existing bodies of information.
+
+HTML has been in use by the World Wide Web (WWW) global information initiative since 1990. 
+This specification roughly corresponds to the capabilities of HTML in common use prior to June 1994. 
+HTML is an application of ISO Standard 8879:1986 Information Processing Text and Office Systems; 
+Standard Generalized Markup Language (SGML).
+
+images:
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Valid_HTML_2.0_%28blue%29.svg/1280px-Valid_HTML_2.0_%28blue%29.svg.png
+=================================================================================
+HTML 3.2 is W3C's specification for HTML, developed in early `96 together with vendors including IBM, Microsoft, 
+Netscape Communications Corporation, Novell, SoftQuad, Spyglass, and Sun Microsystems. 
+HTML 3.2 adds widely deployed features such as tables, applets and text flow around images, 
+while providing full backwards compatibility with the existing standard HTML 2.0.
+
+W3C is continuing to work with vendors on extensions for accessibility features, multimedia objects, 
+scripting, style sheets, layout, forms, math and internationalization. W3C plans on incorporating 
+this work in further versions of HTML.
+
+HTML 4 extends HTML with mechanisms for style sheets, scripting, frames, embedding objects, 
+improved support for right to left and mixed direction text, richer tables, and enhancements to forms, 
+offering improved accessibility for people with disabilities.
+
+The World Wide Web (Web) is a network of information resources. 
+The Web relies on three mechanisms to make these resources readily available to the widest possible audience:
+
+A uniform naming scheme for locating resources on the Web (e.g., URIs).
+Protocols, for access to named resources over the Web (e.g., HTTP).
+Hypertext, for easy navigation among resources (e.g., HTML).
+
+images:
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Valid_HTML_3.2.svg/1280px-Valid_HTML_3.2.svg.png
+https://upload.wikimedia.org/wikipedia/commons/f/ff/Valid_HTML_4.0.svg
+=================================================================================
+HTML5 was first released in a public-facing form on 22 January 2008,[2] 
+with a major update and "W3C Recommendation" status in October 2014.[4][5] 
+Its goals were to improve the language with support for the latest multimedia and 
+other new features; to keep the language both easily readable by humans and consistently 
+understood by computers and devices such as web browsers, parsers, etc., without XHTML's 
+rigidity; and to remain backward-compatible with older software. HTML5 is intended to subsume 
+not only HTML 4 but also XHTML 1 and DOM Level 2 HTML.[6]
+
+HTML5 includes detailed processing models to encourage more interoperable implementations; 
+it extends, improves, and rationalizes the markup available for documents and introduces markup 
+and application programming interfaces (APIs) for complex web applications.[7] For the same reasons, 
+HTML5 is also a candidate for cross-platform mobile applications because it includes features designed 
+with low-powered devices in mind.
+
+images:
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png
+=================================================================================
+
+
